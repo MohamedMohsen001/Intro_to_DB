@@ -1,0 +1,27 @@
+{
+    "company_name": "TechCorp Solutions",
+    "employees": [
+        {
+            "name": "Alice Johnson",
+            "employee_id": "EMP001",
+            "department": "Engineering",
+            "type": "FullTimeEmployee",
+            "annual_salary": 72000
+        },
+        {
+            "name": "Bob Smith",
+            "employee_id": "EMP002",
+            "department": "Marketing",
+            "type": "PartTimeEmployee",
+            "hours_worked": 80,
+            "hourly_rate": 25
+        },
+        {
+            "name": "Charlie Brown",
+            "employee_id": "EMP003",
+            "department": "Sales",
+            "type": "FullTimeEmployee",
+            "annual_salary": 60000
+        }
+    ]
+}
